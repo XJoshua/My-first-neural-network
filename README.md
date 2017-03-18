@@ -1,2 +1,2 @@
-# My-first-neural-network
+# Project in DLND
 For DLND reviewer
